@@ -1,1 +1,1 @@
-### Sprint - 1 : Data Collection and Pre-procession
+### Sprint - 1 : Data Collection and Pre-processing
