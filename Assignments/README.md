@@ -5,8 +5,8 @@
 - Assignment - 4: SMS Spam Classification
 
 <i>
-Team Lead : Chrisolus Timonsingh J <br>
-Team Member 1 : Insuvai V <br>
-Team Member 2 : Jenvin Shirly R <br>
-Team Member 3 : Kavi Bharathi K <br>
+Team Lead : Kavin R <br>
+Team Member 1 : Balaji S <br>
+Team Member 2 : Donald Regan X <br>
+Team Member 3 : Dhanush Prabu E <br>
 </i>
